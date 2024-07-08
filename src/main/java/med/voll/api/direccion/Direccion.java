@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 public class Direccion {
 
     private String calle;
-    private Integer numero;
+    private String numero;
     private String complemento;
     private String distrito;
     private String ciudad;
